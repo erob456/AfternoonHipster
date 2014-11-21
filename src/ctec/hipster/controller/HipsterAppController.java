@@ -27,10 +27,10 @@ public class HipsterAppController
 	private void buildAlbumArray()
 	{
 		String [] myAlbums = new String[4];
-		myAlbums[0] = "Iron and Wine: some hipsterness";
-		myAlbums[1] = "Modest Mouse: used to be hipster";
-		myAlbums[2] = "Blink 182: Not hipster";
-		myAlbums[3] = "Britney Spears: Could not be hipster";
+		myAlbums[0] = "Deadmau5";
+		myAlbums[1] = "Owl City";
+		myAlbums[2] = "Never Shout Never";
+		myAlbums[3] = "Fun";
 		selfHipster.setHipsterAlbums(myAlbums);
 		
 		//hipster
